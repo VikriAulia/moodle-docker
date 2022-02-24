@@ -3,10 +3,10 @@ to deploy moodle, we need moodle images and dbms (mariadb, msql) images
 
 ## pull image
 
-- [moodle image](https://hub.docker.com/repository/docker/prasta/moodle)
+- [moodle image](https://hub.docker.com/r/bitnami/moodle)
 
 ```
-$ docker pull prasta/moodle:latest
+$ docker pull bitnami/moodle:latest
 ```
 
 - [dbms image (mariadb)](https://hub.docker.com/_/mariadb)
